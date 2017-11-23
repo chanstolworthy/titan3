@@ -1,0 +1,15 @@
+.bottom_section_seo{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    div{
+    width: 190px;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 140%;
+    }
+    img{
+        box-shadow: 0 0 10px rgb(207, 207, 207);
+    }
+}

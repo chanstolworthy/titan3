@@ -5,6 +5,53 @@
 }
 
 .white_text{
-    color:white;
+    color:rgb(227, 227, 227);
+    line-height: 160%;
+}
 
+.dark_text{
+    color: rgb(41,47,49);
+    font-size: 14px !important;
+    line-height: 100%;
+}
+.dark_body_text{
+    color: rgb(149, 149, 149);
+    font-size: 13px !important;
+    line-height: 100%;
+}
+
+.blue_button{
+    height: 40px;
+    width: 160px;
+    background: rgb(43, 125, 193);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 16px;
+    border-radius: 7px;
+    flex-direction: column;
+    div{
+        background: rgb(84, 170, 241);
+        height: 20px;
+        width: 158px;
+        border-radius: 20px;
+        align-self: flex-start;
+        margin-top:2px;
+        text-align: center;
+        margin-bottom: -10px;
+        padding-bottom: 10px;
+    }
+    span {
+        margin-bottom: 8px;
+        
+    }
+}
+.lrg_dark_text{
+    color: rgb(74, 89, 94);
+    margin-bottom: -5px;
+}
+.blue_title{
+    color: rgb(64, 156, 237) !important;
+    font-size: 14px !important;
 }

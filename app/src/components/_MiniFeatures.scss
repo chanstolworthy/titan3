@@ -1,0 +1,48 @@
+.min_logo{
+    height: 40px;
+    margin: 15px;
+    margin-left: 27px;
+}
+.mini_top_container{
+    display: flex;
+    align-items: center;
+    div{
+        font-size: 21px;
+        font-weight: lighter;
+    }
+}
+
+.top_body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(168, 168, 168);
+}
+.social_container{
+    display: flex;
+    align-items: center;
+    color: rgb(195, 195, 195);
+    font-size: 13px;
+    font-weight: lighter;
+    margin-right: 8px;
+    img{
+        margin-left: 10px;
+
+    }
+}
+.bottom_section{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(168, 168, 168);
+    padding-bottom: 30px;
+    div{
+    width: 190px;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 140%;
+    }
+    img{
+        box-shadow: 0 0 10px rgb(207, 207, 207);
+    }
+}
