@@ -22,22 +22,22 @@ export default function MiniFeatures() {
             </div>
             <div className='bottom_section'>
                 <div>
-                    <img src={Pic1} />
+                    <img src={Pic1} className='image_sizing'/>
                     <div className='blue_title'>WHO WE ARE</div>
                     <div className='dark_body_text'>eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum olor horhar yiplum helo rathal</div>
                 </div>
                 <div>
-                    <img src={Pic1} />
+                    <img src={Pic1} className='image_sizing'/>
                     <div className='blue_title'>DEVELOPMENT TEAM</div>
                     <div className='dark_body_text'>eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum olor horhar yiplum helo rathal</div>
                 </div>
                 <div>
-                    <img src={Pic2} />
+                    <img src={Pic2} className='image_sizing'/>
                     <div className='blue_title'>FEATURED CLIENTS</div>
                     <div className='dark_body_text'>eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum olor horhar yiplum helo rathal</div>
                 </div>
                 <div>
-                    <img src={Pic2} />
+                    <img src={Pic2} className='image_sizing'/>
                     <div className='blue_title'>OUR CAPABILITIES</div>
                     <div className='dark_body_text'>eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum olor horhar yiplum helo rathal</div>
                 </div>

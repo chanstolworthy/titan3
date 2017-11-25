@@ -3,6 +3,17 @@
     margin: auto;
 
 }
+.small_grey{
+    color: rgb(176, 176, 176);
+    font-size: 11px;
+    text-align: center;
+    line-height: 150%;
+}
+.small_blue_text{
+    color: rgb(53, 133, 203);
+    text-align: center;
+    font-size: 13px;
+}
 
 .white_text{
     color:rgb(227, 227, 227);
@@ -17,7 +28,7 @@
 .dark_body_text{
     color: rgb(149, 149, 149);
     font-size: 13px !important;
-    line-height: 100%;
+    line-height: 140% !important;
 }
 
 .blue_button{
@@ -47,6 +58,43 @@
         
     }
 }
+.blue_button_image{
+    height: 40px;
+    width: 190px;
+    background: rgb(43, 125, 193);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 16px;
+    border-radius: 7px;
+    flex-direction: column;
+    margin-left: 8px;
+    margin-bottom: 15px;
+    .light_blue_section{
+        background: rgb(84, 170, 241);
+        height: 20px;
+        width: 188px;
+        border-radius: 20px;
+        align-self: flex-start;
+        margin-top:2px;
+        text-align: center;
+        margin-bottom: -10px;
+        padding-bottom: 10px;
+       
+    }
+    span {
+        margin-bottom: 0px;
+        
+    }
+    .title_image_cont{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 11px;
+    }
+}
+
 .lrg_dark_text{
     color: rgb(74, 89, 94);
     margin-bottom: -5px;

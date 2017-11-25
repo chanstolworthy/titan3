@@ -11,6 +11,9 @@
         font-weight: lighter;
     }
 }
+.image_sizing{
+    width: 220px;
+}
 
 .top_body{
     display: flex;
@@ -37,7 +40,7 @@
     border-bottom: 1px solid rgb(168, 168, 168);
     padding-bottom: 30px;
     div{
-    width: 190px;
+    width: 220px;
     font-size: 12px;
     text-align: justify;
     line-height: 140%;
